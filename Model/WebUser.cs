@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace ASPNetIdentityDemo
+namespace ASPNetWeb.IdentityRole.Demo.Model
 {
     public class WebUser : IdentityUser
     {

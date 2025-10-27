@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
+using ASPNetWeb.IdentityRole.Demo.Model;
 
 namespace ASPNetIdentityDemo.Areas.Identity.Pages.Account
 {
